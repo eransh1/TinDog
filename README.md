@@ -1,2 +1,2 @@
-# TinDog
-Site similar to Tinder ,but for Dogs!!!
+TinDog Starting Files
+"# Tindog" 
